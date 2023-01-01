@@ -1,0 +1,49 @@
+{
+  "program": {
+    "candyMachine": "AnoqEhfX7S5PNFJdxQTSWcDudVqzGyugTgBa28RmJSAS",
+    "candyMachineCreator": "BWCDreJ2mpGkAbKsPfMTbGgdC3iTB3mgoWWNwjC2YtPW",
+    "collectionMint": "Dwg9kYbKVktovNYAC7CT9yqggHUMMnwUY7uG9Z4zgDhN"
+  },
+  "items": {
+    "-1": {
+      "name": "Drgons Collection",
+      "image_hash": "ec0c26c1e7f91037ddce099a2cf22335b665fecdaa45e9257b045ba687c454d9",
+      "image_link": "https://arweave.net/Wx0A65U2kRPZvyDcNc-WRmFJh0vhU_jK_FzInD0FyIE?ext=png",
+      "metadata_hash": "dbfb2ad847b51c23cfd54e88723f7e2ad482745f0f40cf97e0be4e8ad13bb5d9",
+      "metadata_link": "https://arweave.net/1c2gSa4RvK4uxwVCC_-frHGd4aJuINB0QXIe8kKgyVg",
+      "onChain": true
+    },
+    "0": {
+      "name": "Baby Drgon #1",
+      "image_hash": "9ee373bf21742547e04201b17650c4a393bcc51177fa67b508a09714b41b99fe",
+      "image_link": "https://arweave.net/W4D1imJLP7gSa7kQvcHFunR0aRBILe_8hEqp3Gqp9Vg?ext=png",
+      "metadata_hash": "7c24bea4d15a1d271c2705ac79613315c4196226877182b5d97c2b0d37e76228",
+      "metadata_link": "https://arweave.net/zfYdz9hq8mKgaNLxTF8jzXViOzE2jTuyAz_EIRawmro",
+      "onChain": true
+    },
+    "1": {
+      "name": "Baby Drgon #2",
+      "image_hash": "69ddd385d6013eef486ad3b86bea1d7eefd2aa59c5c32e63e982b32a99bd82fc",
+      "image_link": "https://arweave.net/89ZcQNcMABiqkFgRT2tPMS8CZ0w6kozt4CyU4B4cp_c?ext=png",
+      "metadata_hash": "71621990bd6abde471a38ef2534af5329859c3e6e592d7b216912117265c2969",
+      "metadata_link": "https://arweave.net/q-4f8GDj-J0xsTSEh4qIT5w3534Ob4BXDFSC7cVnGcM",
+      "onChain": true
+    },
+    "2": {
+      "name": "Baby Drgon #3",
+      "image_hash": "d669258a4affc2b969646ce2b12b9e69067af5e8ca9068079d0cd7de07c5e87d",
+      "image_link": "https://arweave.net/79n-_gXuy14pKMX_biWCgx14hmKv6B_GEBLkVYi-52A?ext=png",
+      "metadata_hash": "abc78d134bd785fa432f1a07c143831983f7dac0b183343d9da4fff0e3b71f90",
+      "metadata_link": "https://arweave.net/Hy52YVKXylsTOWoU_ECaBeWnepM_gN3ZQ-DIOvSqkAU",
+      "onChain": true
+    },
+    "3": {
+      "name": "Baby Drgon #4",
+      "image_hash": "86920640e57474574875fc25bf93c473c9b94d6704a6b10af4ed09026ce9eb9e",
+      "image_link": "https://arweave.net/h-ASXWnP8a1BA96nuQ3a4GJgVC2KGoCzZNiOma0oRAs?ext=png",
+      "metadata_hash": "b1567c041f2913d04bda7dd0da7e334c20c644c7455bd961c67fd3cbeaef2377",
+      "metadata_link": "https://arweave.net/HzUCxANy8UYOdHXUgrymafnzXTnZoTfVahWtiNv9GJA",
+      "onChain": true
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "Baby Drgon #4",
+    "symbol": "DRG",
+    "description": "Cute Killer Baby Drgons",
+    "image": "3.png",
+    "attributes": [
+        {
+            "trait_type": "fur",
+            "value": "orange and white"
+        },
+        {
+            "trait_type": "horns",
+            "value": "0"
+        },
+        {
+            "trait_type": "winged",
+            "value": "no"
+        },
+        {
+            "trait_type": "fire-breathing",
+            "value": "no"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "3.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}

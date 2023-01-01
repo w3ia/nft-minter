@@ -1,0 +1,15 @@
+{
+    "name": "Drgons Collection",
+    "symbol": "DRG",
+    "description": "Collection of Cute Killer Baby Drgons",
+    "image": "collection.png",
+    "attributes": [],
+    "properties": {
+      "files": [
+        {
+          "uri": "collection.png",
+          "type": "image/png"
+        }
+      ]
+    }
+  }
